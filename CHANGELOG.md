@@ -11,7 +11,7 @@
   - add ephemeral os disk support for azure_rm_virualmachinescaleset ([#128](https://github.com/ansible-collections/azure/pull/128))
   - add ephemeral os disk support for azure_rm_virtualmachine ([#124](https://github.com/ansible-collections/azure/pull/124))
   - add FileEndpoint to azure_rm_storageaccount_info ([#102](https://github.com/ansible-collections/azure/pull/102))
-  - add support for managing the 'Firewall and virtual networks' settings in azure_rm_storageaccount.py ([#108](https://github.com/ansible-collections/azure/pull/108))
+  - add support for managing the 'Firewall and virtual networks' settings in azure_rm_storageaccount ([#108](https://github.com/ansible-collections/azure/pull/108))
 
 ### BUG FIXING
   - bug fixing in azure_rm_aks ([#170](https://github.com/ansible-collections/azure/pull/170))
