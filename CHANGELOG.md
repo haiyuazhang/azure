@@ -4,6 +4,10 @@
 
 ### NEW MODULES
   - azure_rm_privatezone module ([#122](https://github.com/ansible-collections/azure/pull/122))
+  - azure_ad_serviceprincipal module ([#179](https://github.com/ansible-collections/azure/pull/179))
+  - azure_ad_serviceprincipal_info module ([#179](https://github.com/ansible-collections/azure/pull/179))
+  - azure_ad_password module ([#179](https://github.com/ansible-collections/azure/pull/179))
+  - azure_ad_password_info module ([#179](https://github.com/ansible-collections/azure/pull/179))
 
 ### FEATURE ENHANCEMENT
   - add ability to remove all subnet service endpoints ([#148](https://github.com/ansible-collections/azure/pull/148))
