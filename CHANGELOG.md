@@ -1,6 +1,6 @@
 # Change Log
 
-## v0.2.0 (2020-07-01)
+## v0.2.0 (2020-07-03)
 
 ### NEW MODULES
   - azure_rm_privatezone module ([#122](https://github.com/ansible-collections/azure/pull/122))
